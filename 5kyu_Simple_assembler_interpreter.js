@@ -1,27 +1,3 @@
-Kata
-
-
-5 kyu
-423
-5 kyu
-Simple assembler interpreter
-39213193% of 588737 of 2,621ShinuToki
-JavaScript
-TRAIN AGAINNEXT KATA
-Details
-Solutions
-Forks (9)
-Discourse (173)
-Collect|
-How satisfied are you with this kata?VERYSOMEWHATNONE
-Show Kata Description
-Show Kata Test Cases
-Show Me:All SolutionsSolutions of Users I am Following
-My Solutions
-Sort By:
-Best Practices
-CleverNewestOldest
-GentaShibasaki
 function simple_assembler(program) {
   /* return a dictionary with the registers */
   
@@ -58,6 +34,3 @@ function simple_assembler(program) {
   
   return result;
 }
-Best Practices0Clever0
-0ForkCompare with your solutionLink
-© 2020 CodewarsAboutAPIBlogPrivacyTermsContact
